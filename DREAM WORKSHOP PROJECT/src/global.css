@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Acme:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Allison:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Aladin:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alice:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-caveat: Caveat;
+  --font-acme: Acme;
+  --font-aladin: Aladin;
+  --font-allison: Allison;
+  --font-alice: Alice;
+
+  /* font sizes */
+  --font-size-sm: 10px;
+  --font-size-base: 18px;
+  --font-size-lg: 48px;
+  --font-size-xl: 56px;
+  --font-size-2xl: 60px;
+  --font-size-3xl: 80px;
+  --font-size-4xl: 100px;
+
+  /* Colors */
+  --color-gray-100: #fef9f9;
+  --color-gray-200: #c4c4c4;
+  --color-gray-300: #1c0030;
+  --color-gray-400: #09002b;
+  --color-black: #000;
+  --color-fuchsia-100: #f911fe;
+  --color-white: #fff;
+  --color-indigo-100: #320061;
+  --color-indigo-200: #11024b;
+  --color-turquoise: #04e5bd;
+
+  /* border radiuses */
+  --br-sm: 5px;
+  --br-md: 50px;
+}

@@ -1,0 +1,372 @@
+.rectangleDiv,
+.rectangleDiv1 {
+  position: absolute;
+  top: 3896px;
+  left: 0;
+  background-color: var(--color-indigo-200);
+  width: 1512px;
+  height: 465px;
+}
+.rectangleDiv1 {
+  top: 4328px;
+  background-color: var(--color-gray-400);
+  height: 33px;
+}
+.copyright2021AllRightsRese {
+  top: 4337px;
+  left: 673px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.blogsDiv,
+.copyright2021AllRightsRese,
+.fAQDiv {
+  position: absolute;
+  display: inline-block;
+}
+.fAQDiv {
+  top: 4196px;
+  left: 1279px;
+}
+.blogsDiv {
+  top: 4136px;
+  left: 1275px;
+}
+.contactUsDiv {
+  top: 4083px;
+  left: 1273px;
+}
+.contactUsDiv,
+.privacyPolicyDiv,
+.termsConditions {
+  position: absolute;
+  display: inline-block;
+}
+.privacyPolicyDiv {
+  left: 96px;
+}
+.termsConditions {
+  top: 4131px;
+  left: 96px;
+}
+.privacyPolicyDiv {
+  top: 4089px;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 4078.76px;
+  left: 708.4px;
+  width: 128.41px;
+  height: 89.31px;
+}
+.dreamWorkshopB {
+  position: absolute;
+  top: 4091px;
+  left: 607px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  font-family: var(--font-caveat);
+}
+.informationDiv,
+.usefullLinksDiv {
+  position: absolute;
+  top: 4044px;
+  left: 1274px;
+  color: var(--color-turquoise);
+  display: inline-block;
+  width: 176px;
+  height: 30px;
+}
+.usefullLinksDiv {
+  left: 97px;
+  mix-blend-mode: hard-light;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 1819px;
+  left: 0;
+  width: 1512px;
+  height: 680px;
+  object-fit: cover;
+}
+.rectangleDiv2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 1510px;
+  height: 987px;
+}
+.imageIcon {
+  position: absolute;
+  height: 24.01%;
+  width: 99.87%;
+  top: 1.86%;
+  right: 0.13%;
+  bottom: 74.13%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangleDiv3 {
+  position: absolute;
+  top: 330px;
+  left: 67px;
+  border-radius: var(--br-md);
+  background-color: var(--color-indigo-100);
+  filter: blur(120px);
+  width: 565px;
+  height: 262px;
+  display: none;
+  opacity: 0.5;
+}
+.aboutUsDiv,
+.whySurvey {
+  position: absolute;
+  display: inline-block;
+}
+.whySurvey {
+  width: 39.55%;
+  top: 2.98%;
+  left: 40.54%;
+  font-size: var(--font-size-3xl);
+  text-transform: capitalize;
+  font-family: var(--font-caveat);
+  color: var(--color-gray-100);
+  -webkit-text-stroke: 1px red;
+}
+.aboutUsDiv {
+  top: 35px;
+  left: 1383px;
+}
+.ellipseIcon1 {
+  top: 34px;
+  left: 1199px;
+  width: 30px;
+  height: 30px;
+}
+.ellipseIcon1,
+.ellipseIcon2,
+.frameIcon {
+  position: absolute;
+  display: none;
+}
+.frameIcon {
+  top: 37px;
+  left: 1202px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.ellipseIcon2 {
+  top: 34px;
+  left: 1145px;
+  width: 30px;
+  height: 30px;
+}
+.akarIconsfacebookFill {
+  top: 37px;
+  left: 1148px;
+  width: 24px;
+  height: 24px;
+}
+.akarIconsfacebookFill,
+.ellipseIcon3,
+.frameIcon1 {
+  position: absolute;
+  display: none;
+}
+.ellipseIcon3 {
+  top: 34px;
+  left: 1091px;
+  width: 30px;
+  height: 30px;
+}
+.frameIcon1 {
+  top: 37px;
+  left: 1094px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.ellipseIcon4 {
+  position: absolute;
+  top: 0;
+  left: 728.59px;
+  width: 187.1px;
+  height: 96.84px;
+}
+.workshopSpan {
+  color: var(--color-fuchsia-100);
+}
+.dreamWorkshopB1 {
+  position: absolute;
+  top: 8px;
+  left: 626px;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  font-family: var(--font-caveat);
+  -webkit-text-stroke: 1px red;
+  cursor: pointer;
+}
+.blankLineP {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.basedOn {
+  margin: 0;
+}
+.basedOnYourNeeds {
+  position: absolute;
+  top: 1223px;
+  left: 114px;
+  font-size: 130px;
+  font-family: var(--font-allison);
+  color: #fff4ff;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 680px;
+  height: 359px;
+  mix-blend-mode: color-dodge;
+}
+.customiseAccordingToYou,
+.surveysCanHelpGaugeTheRep {
+  position: absolute;
+  display: inline-block;
+  mix-blend-mode: hard-light;
+}
+.customiseAccordingToYou {
+  top: 2181px;
+  left: 288px;
+  font-size: 150px;
+  text-decoration: underline;
+  font-family: var(--font-allison);
+  color: inherit;
+  width: 1139px;
+  height: 141px;
+}
+.surveysCanHelpGaugeTheRep {
+  height: 17.38%;
+  width: 98.15%;
+  top: 6.86%;
+  left: 1.85%;
+  font-size: var(--font-size-2xl);
+  text-transform: capitalize;
+  font-family: var(--font-alice);
+  color: var(--color-gray-100);
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.65);
+}
+.rectangleButton {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.eDITINGA {
+  position: absolute;
+  top: 25.58%;
+  left: 18.13%;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+}
+.property1normalDiv {
+  position: absolute;
+  height: 1.81%;
+  width: 17.06%;
+  top: 37.49%;
+  right: 5.62%;
+  bottom: 60.7%;
+  left: 77.31%;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-caveat);
+}
+.sTREAMING {
+  position: absolute;
+  top: 25.58%;
+  left: 6.5%;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+}
+.property1normalDiv1 {
+  position: absolute;
+  height: 1.81%;
+  width: 17.06%;
+  top: 33.32%;
+  right: 5.62%;
+  bottom: 64.87%;
+  left: 77.31%;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-caveat);
+}
+.pODCAST {
+  position: absolute;
+  top: 25.58%;
+  left: 17.74%;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+}
+.property1normalDiv2 {
+  position: absolute;
+  height: 1.81%;
+  width: 17.06%;
+  top: 29.14%;
+  right: 5.62%;
+  bottom: 69.04%;
+  left: 77.31%;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-caveat);
+}
+.image6Icon {
+  position: absolute;
+  top: 2499px;
+  left: 0;
+  width: 1512px;
+  height: 765px;
+  object-fit: cover;
+}
+.image7Icon {
+  left: 0;
+}
+.image7Icon,
+.image8Icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image7Icon,
+.image8Icon {
+  top: 3264px;
+  width: 808px;
+  height: 632px;
+}
+.image8Icon {
+  left: 726px;
+  width: 822px;
+}
+.dreamWorkshopDiv {
+  position: relative;
+  background-color: var(--color-gray-400);
+  width: 100%;
+  height: 4361px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-acme);
+}

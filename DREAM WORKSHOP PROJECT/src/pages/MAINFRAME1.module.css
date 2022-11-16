@@ -1,0 +1,298 @@
+.rectangleDiv,
+.rectangleDiv1 {
+  position: absolute;
+  top: 3896px;
+  left: 0;
+  background-color: var(--color-indigo-200);
+  width: 1512px;
+  height: 465px;
+}
+.rectangleDiv1 {
+  top: 4328px;
+  background-color: var(--color-gray-400);
+  height: 33px;
+}
+.copyright2021AllRightsRese {
+  top: 4337px;
+  left: 673px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.blogsDiv,
+.copyright2021AllRightsRese,
+.fAQDiv {
+  position: absolute;
+  display: inline-block;
+}
+.fAQDiv {
+  top: 4186px;
+  left: 1284px;
+}
+.blogsDiv {
+  top: 4129px;
+  left: 1279px;
+}
+.contactUsDiv {
+  top: 4075px;
+  left: 1278px;
+}
+.contactUsDiv,
+.privacyPolicyDiv,
+.termsConditions {
+  position: absolute;
+  display: inline-block;
+}
+.privacyPolicyDiv {
+  left: 23px;
+}
+.termsConditions {
+  top: 4125px;
+  left: 23px;
+}
+.privacyPolicyDiv {
+  top: 4083px;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 4078.76px;
+  left: 708.4px;
+  width: 128.41px;
+  height: 89.31px;
+}
+.dreamWorkshopB {
+  position: absolute;
+  top: 4087px;
+  left: 607px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  font-family: var(--font-caveat);
+}
+.informationDiv,
+.usefullLinksDiv {
+  position: absolute;
+  top: 4032px;
+  left: 1279px;
+  color: var(--color-turquoise);
+  display: inline-block;
+  width: 176px;
+  height: 30px;
+}
+.usefullLinksDiv {
+  left: 24px;
+}
+.rectangleDiv2,
+.rectangleDiv3 {
+  position: absolute;
+  top: 1819px;
+  left: 0;
+  background-color: var(--color-indigo-200);
+  width: 1512px;
+  height: 680px;
+}
+.rectangleDiv3 {
+  top: 0;
+  background-color: var(--color-gray-300);
+  width: 1510px;
+  height: 987px;
+}
+.imageIcon {
+  position: absolute;
+  height: 24.01%;
+  width: 99.87%;
+  top: 1.86%;
+  right: 0.13%;
+  bottom: 74.13%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangleDiv4 {
+  position: absolute;
+  top: 330px;
+  left: 67px;
+  border-radius: var(--br-md);
+  background-color: var(--color-indigo-100);
+  filter: blur(120px);
+  width: 565px;
+  height: 262px;
+  opacity: 0.5;
+}
+.buildYourOwnSetup {
+  position: absolute;
+  top: 4.43%;
+  left: 25.46%;
+  font-size: var(--font-size-4xl);
+  color: var(--color-black);
+  display: inline-block;
+  -webkit-text-stroke: 1px #842793;
+}
+.ellipseIcon1 {
+  position: absolute;
+  top: 0;
+  left: 728.59px;
+  width: 187.1px;
+  height: 96.84px;
+}
+.workshopSpan {
+  color: var(--color-fuchsia-100);
+}
+.dreamWorkshopB1 {
+  position: absolute;
+  top: 2px;
+  left: 632px;
+  font-size: var(--font-size-2xl);
+  display: inline-block;
+  font-family: var(--font-caveat);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px red;
+}
+.takeASurveySoThatWeCanK {
+  position: absolute;
+  top: 1367px;
+  left: 67px;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-allison);
+  color: #ff00f5;
+  display: inline-block;
+  width: 742px;
+  height: 291px;
+  mix-blend-mode: color-dodge;
+}
+.yourDreamP {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.yourVisionP {
+  margin: 0;
+}
+.yourDreamYourNeeds {
+  position: absolute;
+  height: 13.76%;
+  width: 84.33%;
+  top: 9.4%;
+  left: 12.17%;
+  font-size: var(--font-size-3xl);
+  text-transform: capitalize;
+  font-family: var(--font-aladin);
+  color: #f8f2ff;
+  white-space: pre-wrap;
+  display: inline-block;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.65);
+  mix-blend-mode: hard-light;
+}
+.bluePCIcon,
+.image1Icon {
+  position: absolute;
+  object-fit: cover;
+}
+.bluePCIcon {
+  top: 1818px;
+  left: 0;
+  width: 1512px;
+  height: 682px;
+}
+.image1Icon {
+  left: 559px;
+  width: 953px;
+}
+.image1Icon,
+.image2Icon {
+  top: 3264px;
+  height: 632px;
+}
+.image2Icon,
+.image3Icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image2Icon {
+  left: 0;
+  width: 561px;
+}
+.image3Icon {
+  left: 0;
+  top: 2500px;
+  width: 1512px;
+  height: 764px;
+}
+.rectangleDiv5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background: linear-gradient(180deg, #0036f5, rgba(11, 255, 240, 0.66));
+}
+.getAFreeTrial {
+  position: absolute;
+  top: 25.58%;
+  left: 1.59%;
+  display: inline-block;
+  cursor: pointer;
+}
+.property1normalDiv {
+  position: absolute;
+  top: 1353px;
+  left: 927px;
+  width: 553px;
+  height: 100px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-caveat);
+}
+.getAFreeTrial1,
+.topOfTheLineSetups {
+  position: absolute;
+  display: inline-block;
+}
+.topOfTheLineSetups {
+  height: 1.88%;
+  width: 33.6%;
+  top: 45.4%;
+  left: 1.46%;
+  font-size: var(--font-size-lg);
+  line-height: 45px;
+  color: var(--color-black);
+}
+.getAFreeTrial1 {
+  top: 25.58%;
+  left: 0.69%;
+  text-decoration: underline;
+  font-weight: 700;
+  color: inherit;
+}
+.property1normalDiv1 {
+  position: absolute;
+  top: 1533px;
+  left: 928px;
+  width: 553px;
+  height: 100px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-caveat);
+}
+.dreamWorkshopDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-400);
+  width: 1512px;
+  height: 4361px;
+  overflow: hidden;
+}
+.mAINFRAME1 {
+  position: relative;
+  width: 100%;
+  height: 4361px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-acme);
+}
